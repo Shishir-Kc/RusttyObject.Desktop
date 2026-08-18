@@ -2,3 +2,6 @@ node_modules/
 dist/
 .bun-install/
 .bun-tmp/
+.env
+.env.*
+!.env.example
